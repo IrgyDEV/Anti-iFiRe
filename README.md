@@ -4,9 +4,16 @@
 - Download Node JS
 
 #Install use Cmd
-npm install rate-limiter-flexible
-npm install external-ip
-npm install prompt-sync
-npm install socket.io
-npm install express
-npm install helmet
+
+
+1.npm install rate-limiter-flexible
+
+2.npm install external-ip
+
+3.npm install prompt-sync
+
+4.npm install socket.io
+
+5.npm install express
+
+6.npm install helmet
